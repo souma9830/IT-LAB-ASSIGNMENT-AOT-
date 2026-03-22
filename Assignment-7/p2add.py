@@ -4,4 +4,5 @@ a = np.array([[int(input())] for j in range(3)])
 b = np.array([[int(input())] for j in range(3)])
 c = a+b
 print(c)
-#this is the Multiplication 
+#this is the Multiplication hhhh
+#
